@@ -6,9 +6,9 @@ class CartItem extends React.Component {
             <div className="cart-item" >
 
                 <div className="left-block">
-                    <img src="" alt="image" style={{
-                        height: 310,
-                        width: 310,
+                    <img style={{
+                        height: 130,
+                        width: 130,
                         borderRadius: 4,
                         background: '#ccc'
                     }} />
